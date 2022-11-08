@@ -1,0 +1,31 @@
+{
+  "climbed": [
+    {
+      "name": "needle",
+      "rating": "V6",
+      "climbType": "TRADITIONAL",
+      "latitude": "85.3726817",
+      "longitude": "-28.4592715",
+      "notes": "none"
+    }
+  ],
+  "toClimb": [
+    {
+      "name": "pine canyon",
+      "rating": "5.14a",
+      "climbType": "TOP ROPE",
+      "latitude": "-43.3726817",
+      "longitude": "126.4592715",
+      "notes": "need to work on finger strength before coming back to this route - the crux is very crimp heavy"
+    },
+    {
+      "name": "Silence",
+      "rating": "5.15d",
+      "climbType": "SPORT",
+      "latitude": "64.4906030",
+      "longitude": "10.8185290",
+      "notes": "if Adam Ondra can do it, why can't I?"
+    }
+  ],
+  "inProgress": []
+}

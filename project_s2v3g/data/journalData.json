@@ -1,0 +1,37 @@
+{
+    "inProgress": [],
+    "toClimb": [{
+        "notes": "none",
+        "latitude": "56.4738265",
+        "name": "tets2",
+        "rating": "5.15b",
+        "climbType": "BOULDERING",
+        "longitude": "74.3928164"
+    }],
+    "climbed": [
+        {
+            "notes": "no notes",
+            "latitude": "45.4738271",
+            "name": "test",
+            "rating": "V9",
+            "climbType": "TRADITIONAL",
+            "longitude": "57.4938023"
+        },
+        {
+            "notes": "Notes:",
+            "latitude": "00.0000000",
+            "name": "New Route",
+            "rating": "V0",
+            "climbType": "TRADITIONAL",
+            "longitude": "00.0000000"
+        },
+        {
+            "notes": "Notes:",
+            "latitude": "00.0000000",
+            "name": "New Route",
+            "rating": "V0",
+            "climbType": "TRADITIONAL",
+            "longitude": "00.0000000"
+        }
+    ]
+}
